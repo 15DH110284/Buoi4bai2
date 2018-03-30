@@ -1,0 +1,7 @@
+D:\Năm 3\LTM\bai2udp\bai2udp\bin\Debug\bai2udp.exe.config
+D:\Năm 3\LTM\bai2udp\bai2udp\bin\Debug\bai2udp.exe
+D:\Năm 3\LTM\bai2udp\bai2udp\bin\Debug\bai2udp.pdb
+D:\Năm 3\LTM\bai2udp\bai2udp\obj\Debug\bai2udp.csprojResolveAssemblyReference.cache
+D:\Năm 3\LTM\bai2udp\bai2udp\obj\Debug\bai2udp.csproj.CoreCompileInputs.cache
+D:\Năm 3\LTM\bai2udp\bai2udp\obj\Debug\bai2udp.exe
+D:\Năm 3\LTM\bai2udp\bai2udp\obj\Debug\bai2udp.pdb
